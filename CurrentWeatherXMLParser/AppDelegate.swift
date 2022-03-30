@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  CurrentWeatherXMLParser
+//  CurrentWeather
 //
-//  Created by Aliaksei Safronau EPAM on 30.03.22.
+//  Created by Aliaksei Safronau EPAM on 25.03.22.
 //
 
 import UIKit
